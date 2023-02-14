@@ -1,0 +1,3 @@
+apt install screen -y && screen -S ironfish
+ironfish ceremony 
+$IRONFISH_WALLET
